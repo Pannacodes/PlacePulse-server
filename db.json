@@ -1,8 +1,26 @@
 {
-  "COLLECTION_NAME_HERE": [
+  "places": [
     {
-      "id": "1234",
-      "KEY_HERE": "VALUE_HERE"
+      "id": 1,
+      "contributor": "Anna",
+      "location": "Badalona",
+      "country": "Spain",
+      "latitude": 41.45,
+      "longitude": 2.24,
+      "connection": "Where I live",
+      "description": "A coastal city near Barcelona",
+      "comment": "I love the sea, but traffic can affect air quality."
+    },
+    {
+      "id": 2,
+      "contributor": "Dani",
+      "location": "Lanzarote",
+      "country": "Spain",
+      "latitude": 29.04,
+      "longitude": -13.63,
+      "connection": "Where I am travelling",
+      "description": "A volcanic island with unique landscapes",
+      "comment": "Amazing natural environment and clear skies."
     }
   ]
 }
