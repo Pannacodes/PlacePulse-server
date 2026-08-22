@@ -3,31 +3,32 @@
     {
       "id": 1,
       "contributor": "Anna",
-      "locationName": "Badalona",
+      "location": "Badalona",
       "country": "Spain",
       "latitude": 41.45,
       "longitude": 2.24,
       "category": "Where I live",
-      "contribution": "I live near the sea and love being able to walk along the coast.",
-      "imageUrl": ""
+      "contribution": "I live near the sea and love being able to walk along the coast."
     },
     {
       "id": 2,
       "contributor": "Dani",
-      "locationName": "Lanzarote",
+      "location": "Lanzarote",
       "country": "Spain",
       "latitude": 29.04,
       "longitude": -13.63,
       "category": "Where I am travelling",
-      "contribution": "Amazing natural environment and clear skies.",
-      "imageUrl": ""
+      "contribution": "Amazing natural environment and clear skies."
     },
     {
-      "contributor": "John ",
-      "locationName": "London",
-      "category": "Where I live",
+      "contributor": "Maria",
+      "location": "Madrid",
+      "country": "Spain",
+      "latitude": 40.4165,
+      "longitude": -3.70256,
+      "category": "A place I love",
       "contribution": "",
-      "id": 3
+      "id": 4
     }
   ]
 }
