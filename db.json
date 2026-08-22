@@ -21,6 +21,13 @@
       "category": "Where I am travelling",
       "contribution": "Amazing natural environment and clear skies.",
       "imageUrl": ""
+    },
+    {
+      "contributor": "John ",
+      "locationName": "London",
+      "category": "Where I live",
+      "contribution": "",
+      "id": 3
     }
   ]
 }
