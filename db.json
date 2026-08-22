@@ -3,24 +3,24 @@
     {
       "id": 1,
       "contributor": "Anna",
-      "location": "Badalona",
+      "locationName": "Badalona",
       "country": "Spain",
       "latitude": 41.45,
       "longitude": 2.24,
-      "connection": "Where I live",
-      "description": "A coastal city near Barcelona",
-      "comment": "I love the sea, but traffic can affect air quality."
+      "category": "Where I live",
+      "contribution": "I live near the sea and love being able to walk along the coast.",
+      "imageUrl": ""
     },
     {
       "id": 2,
       "contributor": "Dani",
-      "location": "Lanzarote",
+      "locationName": "Lanzarote",
       "country": "Spain",
       "latitude": 29.04,
       "longitude": -13.63,
-      "connection": "Where I am travelling",
-      "description": "A volcanic island with unique landscapes",
-      "comment": "Amazing natural environment and clear skies."
+      "category": "Where I am travelling",
+      "contribution": "Amazing natural environment and clear skies.",
+      "imageUrl": ""
     }
   ]
 }
