@@ -8,7 +8,7 @@
       "latitude": 41.45,
       "longitude": 2.24,
       "category": "Where I live",
-      "contribution": "I live near the sea and love being able to walk along the coast."
+      "contribution": "A lovely place to avoid all the human density of Barcelona (while still being close), but it lacks a lot of natural spaces."
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "latitude": 29.04,
       "longitude": -13.63,
       "category": "Where I am travelling",
-      "contribution": "Amazing natural environment and clear skies."
+      "contribution": "Incredible island for surfing, good climate all year round and beautiful landscapes."
     },
     {
       "contributor": "Maria",
@@ -26,9 +26,79 @@
       "country": "Spain",
       "latitude": 40.4165,
       "longitude": -3.70256,
-      "category": "A place I love",
-      "contribution": "",
+      "category": "A place I used to live",
+      "contribution": "I was a Barça fan in enemy territory :O",
       "id": 3
+    },
+    {
+      "contributor": "Daniel",
+      "location": "Balneário Camboriú",
+      "country": "Brazil",
+      "latitude": -26.99056,
+      "longitude": -48.63472,
+      "category": "Where I live",
+      "contribution": "",
+      "id": 4
+    },
+    {
+      "contributor": "James",
+      "location": "London",
+      "country": "United Kingdom",
+      "latitude": 51.50853,
+      "longitude": -0.12574,
+      "category": "A place I used to live",
+      "contribution": "I miss some good fish & chips",
+      "id": 5
+    },
+    {
+      "contributor": "Leo",
+      "location": "Saint-Jean-de-Védas",
+      "country": "France",
+      "latitude": 43.57759,
+      "longitude": 3.82603,
+      "category": "A place I love",
+      "contribution": "It's close to Montpellier and la Camargue, where there are the french cowboys",
+      "id": 6
+    },
+    {
+      "contributor": "Christian",
+      "location": "Granada",
+      "country": "Spain",
+      "latitude": 37.18817,
+      "longitude": -3.60667,
+      "category": "A place I love",
+      "contribution": "My wife comes from Granada so I am Granadino :3",
+      "id": 7
+    },
+    {
+      "contributor": "Mei",
+      "location": "Singapore",
+      "country": "Singapore",
+      "latitude": 1.28967,
+      "longitude": 103.85007,
+      "category": "A place I used to live",
+      "contribution": "There are so many thing to do in this beautiful city!!",
+      "id": 9
+    },
+    {
+      "contributor": "Anna",
+      "location": "Loni",
+      "country": "India",
+      "latitude": 28.75143,
+      "longitude": 77.29023,
+      "category": "Just curious",
+      "contribution": "Classed as the most air polluted place :(",
+      "id": 10
+    },
+    {
+      "contributor": "Jason",
+      "location": "Hamburg",
+      "country": "Germany",
+      "latitude": 53.55073,
+      "longitude": 9.99302,
+      "category": "Where I live",
+      "contribution": "A lot of boats, a lot of fish, good fish!",
+      "id": 11
     }
   ]
 }
