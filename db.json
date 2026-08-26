@@ -99,6 +99,16 @@
       "category": "Where I live",
       "contribution": "A lot of boats, a lot of fish, good fish!",
       "id": 11
+    },
+    {
+      "contributor": "Susana",
+      "location": "Geislingen an der Steige",
+      "country": "Germany",
+      "latitude": 48.62423,
+      "longitude": 9.82736,
+      "category": "Where I grew up",
+      "contribution": "",
+      "id": 12
     }
   ]
 }
