@@ -8,7 +8,7 @@
       "latitude": 41.45,
       "longitude": 2.24,
       "category": "Where I live",
-      "contribution": "A lovely place to avoid all the human density of Barcelona (while still being close), but it lacks a lot of natural spaces."
+      "contribution": "A lovely place to escape the crowds and urban density of Barcelona while still being close by, although it lacks natural spaces."
     },
     {
       "id": 2,
@@ -57,7 +57,7 @@
       "latitude": 43.57759,
       "longitude": 3.82603,
       "category": "A place I love",
-      "contribution": "It's close to Montpellier and la Camargue, where there are the french cowboys",
+      "contribution": "It’s close to Montpellier and the Camargue, home to the French cowboys yeehaw",
       "id": 6
     },
     {
@@ -67,7 +67,7 @@
       "latitude": 37.18817,
       "longitude": -3.60667,
       "category": "A place I love",
-      "contribution": "My wife comes from Granada so I am Granadino :3",
+      "contribution": "My wife comes from Granada so I am a little Granadino :3",
       "id": 7
     },
     {
@@ -107,8 +107,28 @@
       "latitude": 48.62423,
       "longitude": 9.82736,
       "category": "Where I grew up",
-      "contribution": "",
+      "contribution": "I grew up there in the 70s, the place has changed a lot since then",
       "id": 12
+    },
+    {
+      "contributor": "DaNiEl",
+      "location": "Campo Bom",
+      "country": "Brazil",
+      "latitude": -29.67889,
+      "longitude": -51.05333,
+      "category": "Where I grew up",
+      "contribution": "hello",
+      "id": 13
+    },
+    {
+      "contributor": "dAnIeL",
+      "location": "Sapiranga",
+      "country": "Brazil",
+      "latitude": -29.63806,
+      "longitude": -51.00694,
+      "category": "Where I grew up",
+      "contribution": "nice town ",
+      "id": 14
     }
   ]
 }
